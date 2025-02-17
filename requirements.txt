@@ -1,0 +1,3 @@
+# requirements.txt
+
+# Requires importing numpy library
